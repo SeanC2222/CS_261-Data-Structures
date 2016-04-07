@@ -3,7 +3,7 @@ CS 261 - Data Structures Coursework
 
 CS 261 was my course on building data structures and their associated access methods in C.
 
-Week 1 - Introductory Coursework \n
+Week 1 - Introductory Coursework  
 Week 2 - Dynamic Arrays
 Week 3 - Linked Lists
 Week 4 - Deque (As a Circular Linked List), and Time Trials of Dynamic Array vs. Linked List Operations
